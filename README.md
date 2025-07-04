@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jyotsana8
+- 👋 Hi, I’m @jyotsanarai
 - 👀 I’m interested in Web development and Data science.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on projects related to web development 
